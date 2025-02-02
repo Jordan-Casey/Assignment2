@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# ignore
+*
+*/
+!*.cpp
+!*.h
+!*.md
+!.gitignore
